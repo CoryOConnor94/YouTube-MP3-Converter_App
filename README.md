@@ -1,5 +1,6 @@
 # YouTube to MP3 Converter
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/93e37cdc-c657-4e58-8811-c2ab53182335)
+
 ## Overview
 The **YouTube to MP3 Converter** is a Python application that allows users to download and convert YouTube videos into MP3 audio files using `yt_dlp`. The application provides a simple GUI built with Tkinter for user interaction.
 
